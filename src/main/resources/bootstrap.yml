@@ -4,7 +4,7 @@ spring:
 #  cloud:
 #    config:
 #      uri: http://localhost:8500
-#spring:
+# http://cloud.spring.io/spring-cloud-consul/1.3.x/multi/multi_spring-cloud-consul-config.html
   cloud:
     consul:
       host: localhost
